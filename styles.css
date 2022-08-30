@@ -38,8 +38,19 @@ p {
     text-align: center;
 }
 
-/* .project {
-    display: flex;
-    justify-content: center;
-    text-align: center;
-} */
+.projectcontainer {
+    font-family: 'Arima Madurai';
+    background-color: rgba(163, 163, 153, 0.33);
+    border-radius: 15px;
+    box-sizing: border-box;
+    color: black;
+    display: inline-block;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: normal;
+    margin: 0;
+    min-height: 15px;
+    min-width: fit-content;
+    padding: 10px 20px;
+    width: 15%;
+}
